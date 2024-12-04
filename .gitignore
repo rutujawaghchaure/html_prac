@@ -1,0 +1,41 @@
+# VSCode settings and workspace
+.vscode/
+
+# Node.js dependencies
+/node_modules/
+
+# Build output directories
+/dist/
+/build/
+
+# Dependency directories for some frontend tools
+/bower_components/
+
+# Temporary files created by editors or OS
+*.swp
+*.bak
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# HTML, CSS, JS minified files (optional, if not tracked)
+*.min.js
+*.min.css
+
+# IDEs and editor-specific files
+.idea/
+
+# Test coverage directories
+/coverage/
+
+# Other unnecessary files
+*.log
+*.sublime-project
+*.sublime-workspace
